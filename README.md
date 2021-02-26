@@ -1,2 +1,1 @@
-# War-game-using-OOP
-s-Python
+# War-game-using-OOPS-Python
